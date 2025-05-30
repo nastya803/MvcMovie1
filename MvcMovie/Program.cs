@@ -1,3 +1,6 @@
+
+using Microsoft.Extensions.DependencyInjection;
+using MvcMovie.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
